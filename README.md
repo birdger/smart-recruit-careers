@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="docs/images/banner.svg" alt="SmartRecruit" width="100%"/>
+
+</div>
+
 # SmartRecruit · 招聘官网 / 候选人门户（Vue 3）
 
 > SmartRecruit 智能招聘平台面向**候选人**的公开端：职位浏览与投递、校园/社会招聘专区、内推入口、
@@ -58,6 +64,14 @@ npm run build
 | 变量 | 说明 |
 |---|---|
 | `VITE_API_BASE_URL` | 后端网关地址，如 `http://localhost:8080` |
+
+## 🖼 系统界面
+
+<img src="docs/screenshots/09-careers-portal.png" width="100%"/><br/><sub><b>热招职位列表</b> — 关键词筛选 · 分类标签 · 薪资展示</sub>
+
+> 更多界面与全栈导览见聚合仓库：https://github.com/birdger/smart-recruit
+
+---
 
 ## License
 
